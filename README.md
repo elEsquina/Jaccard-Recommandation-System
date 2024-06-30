@@ -1,7 +1,7 @@
 # Video Recommendation System with Jaccard Similarity
 
 ## Overview
-This is my first year Computer Science Engineering final project
+This is my first year Computer Science Engineering final project.
 This project implements a video recommendation system using content-based filtering with the Jaccard similarity algorithm. It aims to deliver personalized video recommendations based on user preferences and video content attributes.
 
 ## Objective
